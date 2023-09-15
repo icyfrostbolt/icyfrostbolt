@@ -1,4 +1,4 @@
-👋 Hi, I’m Ryan! I’m a high school student who is interested in programming and computer science!
+👋 Hi, I’m Ryan! I’m a university student who is interested in programming and computer science!
 
 🎓 I use:
 - Python
