@@ -1,12 +1,16 @@
 👋 Hi, I’m Ryan! I’m a university student who is interested in programming and computer science!
 
-🎓 I use:
+💻 I use:
 - Python
 - Java
 
-💻 I also know:
+🖥️ I also know:
 - HTML/CSS
-- Javascript (Some)
+- Javascript
+
+🎓 Currently learning:
+
+- R
 
 ✉️ You can reach me on:
 - [LinkedIn](https://www.linkedin.com/in/ryan-lowe-aa873a241/)
