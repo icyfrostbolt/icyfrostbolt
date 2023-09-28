@@ -11,6 +11,7 @@
 🎓 Currently learning:
 
 - R
+- Godot
 
 ✉️ You can reach me on:
 - [LinkedIn](https://www.linkedin.com/in/ryan-lowe-aa873a241/)
