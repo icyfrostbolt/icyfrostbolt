@@ -5,7 +5,7 @@
 🎓 Currently learning:
 
 - R
-- Godot
+- C++
 
 ✉️ You can reach me on:
-- [LinkedIn](https://www.linkedin.com/in/ryan-lowe-aa873a241/)
+- [LinkedIn](https://www.linkedin.com/in/ryanc-lowe/)
