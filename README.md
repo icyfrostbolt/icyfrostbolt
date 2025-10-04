@@ -6,7 +6,6 @@
 
 - R
 - C++
-- SQL
 
 ✉️ You can reach me on:
 - [LinkedIn](https://www.linkedin.com/in/ryanc-lowe/)
